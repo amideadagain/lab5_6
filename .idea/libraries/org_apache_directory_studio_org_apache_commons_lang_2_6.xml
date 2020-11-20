@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="org.apache.directory.studio:org.apache.commons.lang:2.6" type="repository">
+    <properties maven-id="org.apache.directory.studio:org.apache.commons.lang:2.6" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/org.apache.commons.lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-lang-2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/org.apache.commons.lang-2.6-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-lang-2.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
